@@ -454,7 +454,7 @@ header.stick .header-main.fixed {
 }
 
 .box-the-le .list-article .inter-item .item .before img {
-    width: 45px;
+    width: 65px;
 }
 
 .box-the-le .list-article:before {
@@ -471,7 +471,7 @@ header.stick .header-main.fixed {
 .box-the-le .list-article .inter-item .item .before {
     position: relative;
     z-index: 1;
-    margin-right: 25px;
+    margin-right: 35px;
 }
 
 .box-the-le .list-article .inter-item .item .info {
@@ -899,7 +899,7 @@ footer .title-section h3{
 }
 .box-the-le .list-article .inter-item .item .info-date {
     flex: 0 0 170px;
-    margin-right: 22px;
+    margin-right: 15px;
 }
 .link-btn>a:hover, .banner-slider .content-slider .link a:hover {
     background: var(--color-main-01);
